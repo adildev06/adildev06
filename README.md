@@ -6,7 +6,7 @@
 * React.js
 
 ✨My Backend Expertise Includes:-
-* Python, Django Templates
+* Python, Django Templates, Django REST
 
 ✨My Devops Expertise Includes:-
 * EC2, S3
