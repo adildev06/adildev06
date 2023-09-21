@@ -1,5 +1,5 @@
 * 👋 Hi, I’m @Aadil Ali
-* 👀 Senior Software Engineer
+* 👀 Software Engineer
 
 ✨My Frontend Expertise Includes:-
 * Bootstrap, HTML/CSS/Javascript
