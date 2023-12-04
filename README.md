@@ -1,4 +1,4 @@
-* 👋 Hi, I’m @Aadil Ali
+* 👋 Hi, I’m @ Razi Aadil Khan
 * 👀 Software Engineer
 
 ✨My Frontend Expertise Includes:-
